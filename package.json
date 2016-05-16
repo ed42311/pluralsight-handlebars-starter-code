@@ -1,0 +1,30 @@
+{
+  "name": "pluralsight-handlebars-starter-code",
+  "version": "1.0.0",
+  "description": "Setup:",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-wrap": "^0.12.0",
+    "merge-stream": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-debug": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ed42311/pluralsight-handlebars-starter-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ed42311/pluralsight-handlebars-starter-code/issues"
+  },
+  "homepage": "https://github.com/ed42311/pluralsight-handlebars-starter-code#readme"
+}
